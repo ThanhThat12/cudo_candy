@@ -22,7 +22,7 @@ const Header = () => {
           {/* Logo/Brand */}
           <div className="text-2xl md:text-3xl font-bold cursor-pointer hover:text-brand-yellow transition-colors duration-300">
             <span className="flex items-center">
-              🍬 Cu Mỹ Haha để test deloy 
+              🍬 Cu Mỹ Haha để test deloy 45666ppk
             </span>
           </div>
 
