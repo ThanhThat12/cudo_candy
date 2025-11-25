@@ -38,7 +38,7 @@ const Banner = () => {
             className="bg-gradient-to-r from-brand-honey to-brand-amber hover:from-brand-amber hover:to-brand-honey text-brand-dark font-bold py-4 px-8 rounded-full text-lg transition-all duration-300 transform hover:scale-105 shadow-xl hover:shadow-2xl animate-scale-in"
             style={{animationDelay: '0.6s', opacity: 0, animationFillMode: 'forwards'}}
           >
-            Order Now 🛒
+            Đặt Hàng Ngay 🛒
           </button>
         </div>
       </div>

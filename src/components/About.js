@@ -18,7 +18,7 @@ const About = () => {
           <div className="order-2 lg:order-1">
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src="https://images.unsplash.com/photo-1587314168485-3236d6710814?w=800&q=80"
+                src="/images/about/about-us.jpg"
                 alt="Cu Đơ Hà Tĩnh - Về chúng tôi"
                 className="w-full h-full object-cover"
               />

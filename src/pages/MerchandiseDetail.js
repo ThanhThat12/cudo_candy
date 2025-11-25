@@ -22,10 +22,10 @@ const MerchandiseDetail = () => {
       price: '299.000đ',
       originalPrice: '399.000đ',
       images: [
-        'https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&q=80',
-        'https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=800&q=80',
-        'https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800&q=80',
-        'https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800&q=80'
+        '/images/merchandise/ao-thun.png',
+        '/images/merchandise/ao-thun.png',
+        '/images/merchandise/ao-thun.png',
+        '/images/merchandise/ao-thun.png'
       ],
       description: 'Áo thun cotton cao cấp với logo Cu Đơ Hà Tĩnh được in/thêu tinh tế. Chất liệu cotton 100% thoáng mát, form áo vừa vặn, phù hợp với mọi lứa tuổi.',
       badge: 'Mới',
@@ -52,10 +52,10 @@ const MerchandiseDetail = () => {
       price: '149.000đ',
       originalPrice: '199.000đ',
       images: [
-        'https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=800&q=80',
-        'https://images.unsplash.com/photo-1591561954557-26941169b49e?w=800&q=80',
-        'https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=800&q=80',
-        'https://images.unsplash.com/photo-1573152143286-0c422b4d2175?w=800&q=80'
+        '/images/merchandise/tui-vai.png',
+        '/images/merchandise/tui-vai.png',
+        '/images/merchandise/tui-vai.png',
+        '/images/merchandise/tui-vai.png'
       ],
       description: 'Túi vải canvas bền đẹp, thân thiện với môi trường. Thiết kế đơn giản nhưng tinh tế với logo Cu Đơ Hà Tĩnh. Dung tích lớn, phù hợp cho mọi hoạt động hàng ngày.',
       badge: 'Hot',
@@ -82,10 +82,10 @@ const MerchandiseDetail = () => {
       price: '199.000đ',
       originalPrice: null,
       images: [
-        'https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=800&q=80',
-        'https://images.unsplash.com/photo-1517256673644-36ad11246d21?w=800&q=80',
-        'https://images.unsplash.com/photo-1572195830156-0f8a97d1e3d1?w=800&q=80',
-        'https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=800&q=80'
+        '/images/merchandise/ly-su.png',
+        '/images/merchandise/ly-su.png',
+        '/images/merchandise/ly-su.png',
+        '/images/merchandise/ly-su.png'
       ],
       description: 'Ly sứ cao cấp in logo thương hiệu Cu Đơ Hà Tĩnh. Thiết kế tinh tế, chất lượng bền đẹp, phù hợp làm quà tặng hoặc sử dụng hàng ngày.',
       badge: null,
@@ -112,10 +112,10 @@ const MerchandiseDetail = () => {
       price: '49.000đ',
       originalPrice: '79.000đ',
       images: [
-        'https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=800&q=80',
-        'https://images.unsplash.com/photo-1591561954557-26941169b49e?w=800&q=80',
-        'https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=800&q=80',
-        'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80'
+        '/images/merchandise/moc-khoa.png',
+        '/images/merchandise/moc-khoa.png',
+        '/images/merchandise/moc-khoa.png',
+        '/images/merchandise/moc-khoa.png'
       ],
       description: 'Móc khóa kim loại thiết kế độc đáo với logo Cu Đơ Hà Tĩnh. Nhỏ gọn, bền đẹp, là món quà lưu niệm ý nghĩa.',
       badge: 'Sale',
@@ -142,10 +142,10 @@ const MerchandiseDetail = () => {
       price: '179.000đ',
       originalPrice: null,
       images: [
-        'https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=800&q=80',
-        'https://images.unsplash.com/photo-1575428652377-a2d80e2277fc?w=800&q=80',
-        'https://images.unsplash.com/photo-1521369909029-2afed882baee?w=800&q=80',
-        'https://images.unsplash.com/photo-1556306535-0f09a537f0a3?w=800&q=80'
+        '/images/merchandise/non.png',
+        '/images/merchandise/non.png',
+        '/images/merchandise/non.png',
+        '/images/merchandise/non.png'
       ],
       description: 'Nón lưỡi trai thời trang với logo thêu tinh tế. Chất liệu thoáng khí, form nón đẹp, phù hợp với mọi phong cách.',
       badge: 'Mới',
@@ -172,10 +172,10 @@ const MerchandiseDetail = () => {
       price: '89.000đ',
       originalPrice: null,
       images: [
-        'https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=800&q=80',
-        'https://images.unsplash.com/photo-1517842645767-c639042777db?w=800&q=80',
-        'https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800&q=80',
-        'https://images.unsplash.com/photo-1577032664323-c3f27e7c0b6d?w=800&q=80'
+        '/images/merchandise/so-tay.png',
+        '/images/merchandise/so-tay.png',
+        '/images/merchandise/so-tay.png',
+        '/images/merchandise/so-tay.png'
       ],
       description: 'Sổ tay bìa cứng chất lượng cao với logo Cu Đơ Hà Tĩnh. Giấy mịn, thiết kế sang trọng, phù hợp cho ghi chú hoặc làm quà tặng.',
       badge: null,

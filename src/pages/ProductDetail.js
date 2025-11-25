@@ -11,11 +11,11 @@ const ProductDetail = () => {
   const productData = {
     1: {
       title: 'Cu Đơ Truyền Thống',
-      mainImage: 'https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=800&q=80',
+      mainImage: '/images/products/cudo-truyen-thong.jpg',
       gallery: [
-        'https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=400&q=80',
-        'https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=400&q=80',
-        'https://images.unsplash.com/photo-1481391243133-f96216dcb5d2?w=400&q=80',
+        '/images/products/cudo-truyen-thong.jpg',
+        '/images/products/cudo-truyen-thong.jpg',
+        '/images/products/cudo-truyen-thong.jpg',
       ],
       description: 'Kẹo cu đơ nguyên chất từ mật mía Hà Tĩnh, hương vị đậm đà truyền thống được giữ nguyên qua nhiều thế hệ.',
       longDescription: 'Cu đơ truyền thống Hà Tĩnh được làm từ mật mía nguyên chất 100%, không chất bảo quản, không phẩm màu. Quy trình sản xuất hoàn toàn thủ công, kế thừa bí quyết truyền thống hàng trăm năm của làng nghề. Mỗi viên kẹo đều được làm bằng tâm huyết và tình yêu với nghề.',
@@ -37,11 +37,11 @@ const ProductDetail = () => {
     },
     2: {
       title: 'Cu Đơ Sữa Dừa',
-      mainImage: 'https://images.unsplash.com/photo-1514517521153-1be72277b32f?w=800&q=80',
+      mainImage: '/images/products/cudo-sua-dua.jpg',
       gallery: [
-        'https://images.unsplash.com/photo-1514517521153-1be72277b32f?w=400&q=80',
-        'https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=400&q=80',
-        'https://images.unsplash.com/photo-1481391243133-f96216dcb5d2?w=400&q=80',
+        '/images/products/cudo-sua-dua.jpg',
+        '/images/products/cudo-sua-dua.jpg',
+        '/images/products/cudo-sua-dua.jpg',
       ],
       description: 'Sự kết hợp hoàn hảo giữa mật mía thơm ngon và sữa dừa béo ngậy.',
       longDescription: 'Vị ngọt đậm đà của mật mía hòa quyện cùng vị béo ngậy của sữa dừa tạo nên một hương vị độc đáo, khó quên. Sản phẩm được làm từ 100% nguyên liệu tự nhiên, đảm bảo an toàn cho sức khỏe.',
@@ -63,11 +63,11 @@ const ProductDetail = () => {
     },
     3: {
       title: 'Cu Đơ Gừng',
-      mainImage: 'https://images.unsplash.com/photo-1481391243133-f96216dcb5d2?w=800&q=80',
+      mainImage: '/images/products/cudo-gung.jpg',
       gallery: [
-        'https://images.unsplash.com/photo-1481391243133-f96216dcb5d2?w=400&q=80',
-        'https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=400&q=80',
-        'https://images.unsplash.com/photo-1514517521153-1be72277b32f?w=400&q=80',
+        '/images/products/cudo-gung.jpg',
+        '/images/products/cudo-gung.jpg',
+        '/images/products/cudo-gung.jpg',
       ],
       description: 'Hương vị độc đáo với gừng tươi, ấm bụng, tốt cho sức khỏe.',
       longDescription: 'Cu đơ gừng kết hợp hoàn hảo giữa vị ngọt của mật mía và vị cay nồng của gừng tươi. Đây là sản phẩm đặc biệt tốt cho sức khỏe, giúp ấm cơ thể, tăng cường sức đề kháng.',
@@ -89,11 +89,11 @@ const ProductDetail = () => {
     },
     4: {
       title: 'Cu Đơ Lạc Rang',
-      mainImage: 'https://images.unsplash.com/photo-1587314168485-3236d6710814?w=800&q=80',
+      mainImage: '/images/products/cudo-lac-rang.jpg',
       gallery: [
-        'https://images.unsplash.com/photo-1587314168485-3236d6710814?w=400&q=80',
-        'https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=400&q=80',
-        'https://images.unsplash.com/photo-1481391243133-f96216dcb5d2?w=400&q=80',
+        '/images/products/cudo-lac-rang.jpg',
+        '/images/products/cudo-lac-rang.jpg',
+        '/images/products/cudo-lac-rang.jpg',
       ],
       description: 'Kẹo cu đơ kết hợp với lạc rang thơm bùi, giòn rụm.',
       longDescription: 'Sự kết hợp độc đáo giữa độ ngọt của mật mía và độ bùi của lạc rang tạo nên một món ăn vặt tuyệt vời. Lạc rang giòn tan, thơm bùi hòa quyện với vị ngọt thanh của cu đơ.',
@@ -115,11 +115,11 @@ const ProductDetail = () => {
     },
     5: {
       title: 'Cu Đơ Mè Đen',
-      mainImage: 'https://images.unsplash.com/photo-1595475207225-428b62bda831?w=800&q=80',
+      mainImage: '/images/products/cudo-me-den.jpg',
       gallery: [
-        'https://images.unsplash.com/photo-1595475207225-428b62bda831?w=400&q=80',
-        'https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=400&q=80',
-        'https://images.unsplash.com/photo-1514517521153-1be72277b32f?w=400&q=80',
+        '/images/products/cudo-me-den.jpg',
+        '/images/products/cudo-me-den.jpg',
+        '/images/products/cudo-me-den.jpg',
       ],
       description: 'Hương vị bổ dưỡng với mè đen rang thơm, giàu dinh dưỡng.',
       longDescription: 'Cu đơ mè đen là sự kết hợp tuyệt vời giữa mật mía ngọt ngào và mè đen bổ dưỡng. Mè đen giàu canxi, sắt và các vitamin tốt cho sức khỏe.',
@@ -141,11 +141,11 @@ const ProductDetail = () => {
     },
     6: {
       title: 'Combo Quà Tặng',
-      mainImage: 'https://images.unsplash.com/photo-1571506165871-ee72a35f85b4?w=800&q=80',
+      mainImage: '/images/products/combo-qua-tang.jpg',
       gallery: [
-        'https://images.unsplash.com/photo-1571506165871-ee72a35f85b4?w=400&q=80',
-        'https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=400&q=80',
-        'https://images.unsplash.com/photo-1514517521153-1be72277b32f?w=400&q=80',
+        '/images/products/combo-qua-tang.jpg',
+        '/images/products/combo-qua-tang.jpg',
+        '/images/products/combo-qua-tang.jpg',
       ],
       description: 'Hộp quà cao cấp gồm 3 loại cu đơ đặc biệt, hoàn hảo làm quà tặng.',
       longDescription: 'Combo quà tặng cao cấp bao gồm 3 loại cu đơ đặc biệt: Truyền thống, Sữa dừa và Gừng. Được đóng gói trong hộp quà sang trọng, thích hợp làm quà biếu cho người thân, đối tác.',

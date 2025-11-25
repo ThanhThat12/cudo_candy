@@ -33,7 +33,7 @@ const ProductCard = ({ id, image, title, description, price }) => {
         </div>
         
         <button className="w-full bg-gradient-to-r from-brand-brown to-brand-caramel hover:from-brand-caramel hover:to-brand-honey text-white font-semibold py-3 px-4 rounded-lg transition-all duration-300 transform hover:translate-y-[-2px] hover:shadow-lg active:scale-95">
-          Order Now 🛒
+          Đặt Hàng Ngay 🛒
         </button>
       </div>
     </div>

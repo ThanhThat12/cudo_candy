@@ -32,7 +32,7 @@ const Merchandise = () => {
       id: 1,
       name: 'Áo Thun Brand',
       price: '299.000đ',
-      image: '/images/merchandise/ao-thun.jpg',
+      image: '/images/merchandise/ao-thun.png',
       description: 'Áo thun cotton cao cấp với logo Cu Đơ Hà Tĩnh',
       badge: 'Mới'
     },
@@ -40,7 +40,7 @@ const Merchandise = () => {
       id: 2,
       name: 'Túi Vải Canvas',
       price: '149.000đ',
-      image: '/images/merchandise/tui-vai.jpg',
+      image: '/images/merchandise/tui-vai.png',
       description: 'Túi vải bền đẹp, thân thiện môi trường',
       badge: 'Hot'
     },
@@ -48,7 +48,7 @@ const Merchandise = () => {
       id: 3,
       name: 'Ly Sứ',
       price: '199.000đ',
-      image: '/images/merchandise/ly-su.jpg',
+      image: '/images/merchandise/ly-su.png',
       description: 'Ly sứ cao cấp in logo thương hiệu',
       badge: null
     },
@@ -56,7 +56,7 @@ const Merchandise = () => {
       id: 4,
       name: 'Móc Khóa',
       price: '49.000đ',
-      image: '/images/merchandise/moc-khoa.jpg',
+      image: '/images/merchandise/moc-khoa.png',
       description: 'Móc khóa kim loại thiết kế độc đáo',
       badge: 'Sale'
     },
@@ -64,7 +64,7 @@ const Merchandise = () => {
       id: 5,
       name: 'Nón Lưỡi Trai',
       price: '179.000đ',
-      image: '/images/merchandise/non.jpg',
+      image: '/images/merchandise/non.png',
       description: 'Nón thời trang với logo thêu tinh tế',
       badge: 'Mới'
     },
@@ -72,7 +72,7 @@ const Merchandise = () => {
       id: 6,
       name: 'Sổ Tay',
       price: '89.000đ',
-      image: '/images/merchandise/so-tay.jpg',
+      image: '/images/merchandise/so-tay.png',
       description: 'Sổ tay bìa cứng chất lượng cao',
       badge: null
     }
