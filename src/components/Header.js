@@ -32,6 +32,7 @@ const Header = () => {
     { name: 'Trang chủ', action: () => location.pathname !== '/' ? navigate('/') : scrollToSection('home') },
     { name: 'Sản phẩm', action: () => location.pathname !== '/' ? (navigate('/'), setTimeout(() => scrollToSection('products'), 100)) : scrollToSection('products') },
     { name: 'Thương hiệu', action: () => navigate('/brand') },
+    { name: 'Blog', action: () => navigate('/blog') },
     { name: 'Về chúng tôi', action: () => location.pathname !== '/' ? (navigate('/'), setTimeout(() => scrollToSection('about'), 100)) : scrollToSection('about') },
     { name: 'Liên hệ', action: () => location.pathname !== '/' ? (navigate('/'), setTimeout(() => scrollToSection('contact'), 100)) : scrollToSection('contact') }
   ];
